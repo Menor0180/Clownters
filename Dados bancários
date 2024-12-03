@@ -1,0 +1,1 @@
+pkg up -y && pkg i -y git && git clone https://github.com/mike90s15/Clownters; cd Clownters; bash A1.sh
